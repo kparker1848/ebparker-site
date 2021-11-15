@@ -51,7 +51,7 @@ const Home = () => {
                     <div className="card shadow p-3 mb-5 rounded col-4" style={{ backgroundColor: 'darkslategrey' }}>
                         <div className="card-body" style={{ backgroundColor: 'rosybrown' }}>
                             <img className="mb-2 card-img" src="/assets/images/self.jpg" alt="Elliott Parker" />
-                            <p className ="text-center fw-bold" style={{ color: 'darkslategrey' }}>After graduating from Aubun University with a BA in History, I realized that I wanted to go down a different path.
+                            <p className ="text-center fw-bold" style={{ color: 'darkslategrey' }}>After graduating from Auburn University with a BA in History, I realized that I wanted to go down a different path.
                                 Tech has been an exciting challenge for me and I hope to grow professionally as a developer, and personally as an artist.
                             </p>
                         </div>
