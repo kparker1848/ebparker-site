@@ -20,16 +20,16 @@ const Home = () => {
                     <a href="https://github.com/kparker1848" target="_blank" className="btn text-light m-2" style={{ backgroundColor: 'sienna' }}><BsGithub /> Github</a> 
 
                 </div>
-                <div className="col-6 m-4 d-flex flex-wrap justify-content-center" style={{ backgroundColor: 'darkslategrey', opacity: '80%'}}>
+                <div className="col-sm-6 m-4 d-flex flex-wrap justify-content-center" style={{ backgroundColor: 'darkslategrey', opacity: '80%'}}>
                     <h1 className="text-center text-light" style={{ fontFamily: 'Mohave'}}>Bio</h1>
                     <p className="text-center text-light">Passionate creative visionary ready to provide quality work experience to a software
                         team. Comes from an artistic background with a recent excellent, fast-paced study in web development.  A flexible
                         individual and team contributor that utilizes creative and analytical problem solving methods. An efficient learner
                         and critical thinker; has skills that will prove to be great assets to any organization. </p>
                 </div>
-                <div className="col-12 d-flex m-3 justify-content-evenly">
+                <div className="col-12 d-flex flex-wrap m-3 justify-content-evenly">
 
-                    <div className="card shadow p-3 mb-5 rounded col-4" style={{ backgroundColor: 'rosybrown', opacity: '80%' }}>
+                    <div className="card shadow p-3 mb-5 rounded col-sm-4" style={{ backgroundColor: 'rosybrown', opacity: '80%' }}>
                         <div className="card-body" style={{ backgroundColor: 'darkslategrey' }}>
                             <h4 className="text-light" style={{ fontFamily: 'Mohave'}}>My Skills:</h4>
                             <ul className="list-group" style={{ fontFamily: 'Mohave'}}>
@@ -48,7 +48,7 @@ const Home = () => {
                         </div>
                     </div>
 
-                    <div className="card shadow p-3 mb-5 rounded col-4" style={{ backgroundColor: 'darkslategrey' }}>
+                    <div className="card shadow p-3 mb-5 rounded col-sm-4" style={{ backgroundColor: 'darkslategrey' }}>
                         <div className="card-body" style={{ backgroundColor: 'rosybrown' }}>
                             <img className="mb-2 card-img" src="/assets/images/self.jpg" alt="Elliott Parker" />
                             <p className ="text-center fw-bold" style={{ color: 'darkslategrey' }}>After graduating from Auburn University with a BA in History, I realized that I wanted to go down a different path.
