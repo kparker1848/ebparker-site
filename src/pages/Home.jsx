@@ -20,7 +20,7 @@ const Home = () => {
                     <a href="https://github.com/kparker1848" target="_blank" className="btn text-light m-2" style={{ backgroundColor: 'sienna' }}><BsGithub /> Github</a> 
 
                 </div>
-                <div className="col-sm-6 m-4 d-flex flex-wrap justify-content-center" style={{ backgroundColor: 'darkslategrey', opacity: '80%'}}>
+                <div className="col-sm-6 m-4 p-3 d-flex flex-wrap justify-content-center" style={{ backgroundColor: 'darkslategrey', opacity: '80%'}}>
                     <h1 className="text-center text-light" style={{ fontFamily: 'Mohave'}}>Bio</h1>
                     <p className="text-center text-light">Passionate creative visionary ready to provide quality work experience to a software
                         team. Comes from an artistic background with a recent excellent, fast-paced study in web development.  A flexible
