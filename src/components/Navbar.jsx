@@ -4,7 +4,7 @@ import { BsLinkedin, BsGithub } from 'react-icons/bs';
 
 const Navbar = () => {
     return (
-        <nav className="col-12 d-flex flex-wrap justify-content-between bg-dustyrose transparent-box">
+        <nav className="col-12 d-flex flex-wrap justify-content-between bg-dustyrose trans-box">
             <div>
                 <NavLink to="/" className="btn btn-info text-light m-2 bg-rust secondary-font">Home</NavLink>
             </div>
