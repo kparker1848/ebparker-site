@@ -1,6 +1,8 @@
-body {
-    background-image: url('/assets/images/calimorning.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-};
+.home-bg {
+	background: url("assets/images/calimorning.png") !important; 
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    min-width: 100% !important;
+	min-height: 100% !important;
+}

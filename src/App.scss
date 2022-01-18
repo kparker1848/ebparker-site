@@ -1,0 +1,36 @@
+$rust: #a0522d;
+$dustyrose:#bc8f8f;
+$darkpine: #2f4f4f;
+$light: white;
+$dark: black;
+
+$theme-colors: (
+    rust: $rust,
+    dustyrose: $dustyrose,
+    darkpine: $darkpine,
+    light: $light,
+    dark: $dark
+);
+
+$megrim: 'Megrim', cursive;
+$mohave: 'Mohave', sans-serif;
+
+.secondary-font {
+	font-family: $mohave;
+	font-weight: normal;
+}
+
+.display-font {
+	font-family: $megrim;
+	font-weight: normal;
+    font-size: 400%;
+}
+
+.transparent-box {
+    opacity: 80%;
+}
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Mohave:ital,wght@0,400;1,300;1,400&display=swap');
