@@ -20,7 +20,7 @@ const Home = () => {
                 <div className="col-12 d-flex justify-content-center">
                    
                 </div>
-                <div className="col-sm-6 m-4 p-3 d-flex flex-wrap justify-content-center bg-darkpine trans-box">
+                <div className="col-sm-6 m-4 p-3 d-flex flex-wrap justify-content-center bg-darkpine">
                     <h1 className="text-center secondary-font text-light">Bio</h1>
                     <p className="text-center text-light">
                         Passionate creative visionary ready to provide quality work experience to a software
@@ -30,7 +30,7 @@ const Home = () => {
                 </div>
                 <div className="col-12 d-flex flex-wrap m-3 justify-content-evenly">
 
-                    <div className="card shadow p-3 mb-5 rounded col-sm-4 bg-dustyrose trans-box">
+                    <div className="card shadow p-3 mb-5 rounded col-sm-4 bg-dustyrose">
                         <div className="card-body bg-darkpine">
                             <h4 className="secondary-font text-light">My Skills:</h4>
                             <ul className="secondary-font list-group">
