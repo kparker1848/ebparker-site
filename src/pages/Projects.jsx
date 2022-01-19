@@ -6,7 +6,7 @@ const Projects = () => {
     document.body.className = "projects-bg";
 
     return (
-        <main className="container">
+        <main className="container mt-4 pt-4">
             <div className="d-flex flex-wrap justify-content-center">
                 <div className="text-center col-12">
                     <h1 className="m-3 display-font text-light text-decoration-underline tracking-in-expand-fwd">
