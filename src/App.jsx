@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
+import Projects from './pages/Projects';
 import './App.scss';
 
 
@@ -12,6 +13,8 @@ const App = () => {
                 <main>
                     <Routes>
                         <Route exact path="/" element={<Home />}>
+                        </Route>
+                        <Route exact path="/Projects" element={<Projects />}>
                         </Route>
                     </Routes>
                 </main>

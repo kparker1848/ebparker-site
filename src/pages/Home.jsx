@@ -10,8 +10,6 @@ const Home = () => {
 
     return (
         <main className="container">
-            <div className="col-12 d-flex flex-wrap justify-content-center">
-            </div>
             <h1 className="text-center m-3 display-font text-light text-decoration-underline tracking-in-expand-fwd">
                 Elliott Parker</h1>
             <h3 className="text-center m-3 secondary-font text-light tracking-in-expand-fwd-2">

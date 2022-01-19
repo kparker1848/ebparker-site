@@ -26,8 +26,17 @@ $mohave: 'Mohave', sans-serif;
     font-size: 400%;
 }
 
+.pro-title-font {
+    font-family: $megrim;
+	font-weight: normal;
+}
+
 .trans-box {
     opacity: .8;
+}
+
+.pro-card-dimension-outer {
+    width: 18rem;
 }
 
 
