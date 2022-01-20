@@ -27,7 +27,7 @@ const Projects = () => {
                         proDesc="A typing game! This project was created with jQuery and customized with CSS when given basic HTML and Bootstrap keyboard framework."
                     />
                     <ProjectCard
-                        proImg="https://repository-images.githubusercontent.com/412172395/c2843b05-b308-43d0-880c-47056795fc95"
+                        proImg="https://repository-images.githubusercontent.com/412172395/f46b5b40-a026-4df8-8dd0-bb816461872a"
                         proLinkName="https://kparker1848.github.io/context-clues/"
                         proTitle="Context Clues Lab"
                         proDesc="A project using jQuery to manipulate DOM elements, providing functionally generated accusations in a Clue-like setting."
