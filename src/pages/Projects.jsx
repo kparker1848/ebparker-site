@@ -23,14 +23,20 @@ const Projects = () => {
                     <ProjectCard
                         proImg="https://repository-images.githubusercontent.com/411025943/d5f2b1cd-5e2a-480c-95c0-6f476a6cd131"
                         proLinkName="https://kparker1848.github.io/Just-My-Type/"
-                        proTitle="Just My Type Lab"
+                        proTitle="Just My Type"
                         proDesc="A typing game! This project was created with jQuery and customized with CSS when given basic HTML and Bootstrap keyboard framework."
                     />
                     <ProjectCard
                         proImg="https://repository-images.githubusercontent.com/412172395/f46b5b40-a026-4df8-8dd0-bb816461872a"
                         proLinkName="https://kparker1848.github.io/context-clues/"
-                        proTitle="Context Clues Lab"
+                        proTitle="Context Clues"
                         proDesc="A project using jQuery to manipulate DOM elements, providing functionally generated accusations in a Clue-like setting."
+                    />
+                    <ProjectCard
+                        proImg="https://repository-images.githubusercontent.com/419491843/ecced979-566a-4933-ab78-befab3db8d25"
+                        proLinkName="https://kparker1848.github.io/Reacting-to-API/"
+                        proTitle="Using React and APIs"
+                        proDesc="This project utilizes React and a third party API to showcase Studio Ghibli film and character information!"
                     />
 
                 </div>
