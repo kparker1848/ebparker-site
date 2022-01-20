@@ -32,7 +32,8 @@ const Home = () => {
                         <div className="card-body bg-darkpine">
                             <h4 className="secondary-font text-light">My Skills:</h4>
                             <ul className="secondary-font list-group">
-                                <li className="list-group-item bg-transparent text-light"><BsChevronDoubleRight /> HTML/CSS</li>
+                                <li className="list-group-item bg-transparent text-light"><BsChevronDoubleRight /> HTML5</li>
+                                <li className="list-group-item bg-transparent text-light"><BsChevronDoubleRight /> SCSS/CSS</li>
                                 <li className="list-group-item bg-transparent text-light"><BsChevronDoubleRight /> Bootstrap</li>
                                 <li className="list-group-item bg-transparent text-light"><BsChevronDoubleRight /> React</li>
                                 <li className="list-group-item bg-transparent text-light"><BsChevronDoubleRight /> SQL</li>
